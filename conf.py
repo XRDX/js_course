@@ -159,6 +159,7 @@ texinfo_documents = [
      'Miscellaneous'),
 ]
 
+
 def setup(app):
     app.add_javascript("GA.js")
     app.add_javascript("googleAnalysis.js")
